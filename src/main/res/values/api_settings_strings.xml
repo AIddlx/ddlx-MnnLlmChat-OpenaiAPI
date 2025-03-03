@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_settings">API Settings</string>
+    <string name="api_service_settings">API Service Settings</string>
+    <string name="enable_api_service">Enable API Service</string>
+    <string name="port_number">Port Number (default: 8080)</string>
+    <string name="api_status_running">API Service is running on port %d</string>
+    <string name="api_status_stopped">API Service is stopped</string>
+    <string name="invalid_port">Please enter a valid port number (1024-65535)</string>
+    <string name="port_changed">Port changed to %d</string>
+</resources>
