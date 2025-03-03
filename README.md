@@ -16,7 +16,8 @@ git clone https://github.com/AIddlx/ddlx.git
 兼容性适配：
 1.Android studio编译时要修改gradle/wrapper/gradle-wrapper.properties内的
 distributionUrl=https\://mirrors.aliyun.com/gradle/distributions/v8.10.2/gradle-8.10.2-bin.zip
-2.Java版本 需要17（需要java15的文本块支持）
+2.Java版本 需要17（需要java15的文本块支持），gradle-wrapper.properties要修改distributionUrl=https\://mirrors.aliyun.com/gradle/distributions/v8.10.2/gradle-8.10.2-bin.zip。
+
 已经验证的仓库版本：
 git log -1
 commit 05c45045f0016293b78d7786772397a2a37b1d9a (HEAD -> master, origin/master, origin/HEAD)
