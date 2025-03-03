@@ -23,4 +23,4 @@ Merge pull request #3273 from Yogayu/master
 编译好的程序在：https://pan.quark.cn/s/dba96c666fdf 有问题可以关注+私信 不使用时一定要清退程序！！！不然会常驻暴露0.0.0.0:8080（可以设置别的端口）不用的时候也要记得清退程序
 自己用于低功耗文本处理的，现在还只支持文本功能，暂时不支持文件（图片，文档）功能哦，
 
-技术演示：【手机给电脑提供大模型API】 https://www.bilibili.com/video/BV1HN98Y8EC9 [观看视频](https://www.bilibili.com/video/BV1HN98Y8EC9)
+技术演示：【手机给电脑提供大模型API】 https://www.bilibili.com/video/BV1HN98Y8EC9 
