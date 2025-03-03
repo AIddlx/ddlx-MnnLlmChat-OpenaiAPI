@@ -25,4 +25,4 @@ Merge pull request #3273 from Yogayu/master
 
 技术演示：【手机给电脑提供大模型API】 https://www.bilibili.com/video/BV1HN98Y8EC9/?share_source=copy_web&vd_source=ed15db115426faae59e53135653d738c
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114093641958271&bvid=BV1HN98Y8EC9&cid=28660269572&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[观看视频](https://www.bilibili.com/video/BV1HN98Y8EC9)
