@@ -4,8 +4,12 @@
 
 
 我实现的代码部分完全由AI生成，如果商用需要自己洗代码！
-临时比较仓促代码没有整理过，我会重新弄个极简的程序，那样会更方便的阅读代码。https://www.bilibili.com/video/BV1HN98Y8EC9 关注我的b站，更新后会第一时间放出来
-下载后复制src、build.gradle到 MNN\apps\Android\MnnLlmChat\app ，
+临时比较仓促代码没有整理过，干脆把src文件夹上传过来。
+之后的时间我会重新弄个极简的程序，那样会更方便的阅读代码。https://www.bilibili.com/video/BV1HN98Y8EC9 关注我的b站，更新后会第一时间放出来
+
+按照官方的https://github.com/alibaba/MNN/blob/master/apps/Android/MnnLlmChat/README_CN.md教程下载编译好之后克隆本仓库
+git clone https://github.com/AIddlx/ddlx.git
+克隆后复制src、build.gradle到 MNN\apps\Android\MnnLlmChat\app ，
 兼容性适配：
 1.Android studio编译时要修改gradle/wrapper/gradle-wrapper.properties内的
 distributionUrl=https\://mirrors.aliyun.com/gradle/distributions/v8.10.2/gradle-8.10.2-bin.zip
