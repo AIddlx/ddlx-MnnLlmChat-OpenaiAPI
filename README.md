@@ -9,6 +9,9 @@
 临时比较仓促代码没有整理过，干脆把src文件夹上传过来。
 之后的时间我会重新弄个极简的程序，那样会更方便的阅读代码。https://www.bilibili.com/video/BV1HN98Y8EC9 关注我的b站，更新后会第一时间放出来
 
+（3.5号删除 src/main/jniLibs/arm64-v8a 目录
+库文件通过官方代码编译可能好一些，如果不能运行我的代码，反馈我再补回来）
+
 按照官方的https://github.com/alibaba/MNN/blob/master/apps/Android/MnnLlmChat/README_CN.md
 教程下载编译好之后克隆本仓库
 git clone https://github.com/AIddlx/ddlx.git
