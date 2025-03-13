@@ -2,7 +2,7 @@
 
 为MNN安卓端适配兼容openai的API接口，
 3.8号从MNN仓库创建分支里面更新API适配了：https://github.com/AIddlx/MNN
-按照https://github.com/AIddlx/MNN/blob/master/apps/Android/MnnLlmChat/README_CN.md进行安装编译就行
+按照 https://github.com/AIddlx/MNN/blob/master/apps/Android/MnnLlmChat/README_CN.md  进行安装编译就行
 
 API使用时模型名称设置为mnn-local， baseUrl可在模型对话界面的API Setting 内复制和开关，网络接口自动切到换WiFi、流量、本地
 api暂时仅支持文本
