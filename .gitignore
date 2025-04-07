@@ -1,7 +1,0 @@
-# IDE - VSCode
-.vscode/
-
-# Gradle
-.gradle/
-**/build/
-!src/**/build/

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="menu_enable_api" type="id"/>
-    <item name="menu_set_port" type="id"/>
-</resources>
